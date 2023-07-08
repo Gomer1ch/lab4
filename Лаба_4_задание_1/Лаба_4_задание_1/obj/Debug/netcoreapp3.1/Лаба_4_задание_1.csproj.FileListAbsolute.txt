@@ -1,0 +1,13 @@
+C:\Users\GamerHead\source\repos\Лаба_4_задание_1\Лаба_4_задание_1\bin\Debug\netcoreapp3.1\Лаба_4_задание_1.exe
+C:\Users\GamerHead\source\repos\Лаба_4_задание_1\Лаба_4_задание_1\bin\Debug\netcoreapp3.1\Лаба_4_задание_1.deps.json
+C:\Users\GamerHead\source\repos\Лаба_4_задание_1\Лаба_4_задание_1\bin\Debug\netcoreapp3.1\Лаба_4_задание_1.runtimeconfig.json
+C:\Users\GamerHead\source\repos\Лаба_4_задание_1\Лаба_4_задание_1\bin\Debug\netcoreapp3.1\Лаба_4_задание_1.runtimeconfig.dev.json
+C:\Users\GamerHead\source\repos\Лаба_4_задание_1\Лаба_4_задание_1\bin\Debug\netcoreapp3.1\Лаба_4_задание_1.dll
+C:\Users\GamerHead\source\repos\Лаба_4_задание_1\Лаба_4_задание_1\bin\Debug\netcoreapp3.1\Лаба_4_задание_1.pdb
+C:\Users\GamerHead\source\repos\Лаба_4_задание_1\Лаба_4_задание_1\obj\Debug\netcoreapp3.1\Лаба_4_задание_1.csprojAssemblyReference.cache
+C:\Users\GamerHead\source\repos\Лаба_4_задание_1\Лаба_4_задание_1\obj\Debug\netcoreapp3.1\Лаба_4_задание_1.AssemblyInfoInputs.cache
+C:\Users\GamerHead\source\repos\Лаба_4_задание_1\Лаба_4_задание_1\obj\Debug\netcoreapp3.1\Лаба_4_задание_1.AssemblyInfo.cs
+C:\Users\GamerHead\source\repos\Лаба_4_задание_1\Лаба_4_задание_1\obj\Debug\netcoreapp3.1\Лаба_4_задание_1.csproj.CoreCompileInputs.cache
+C:\Users\GamerHead\source\repos\Лаба_4_задание_1\Лаба_4_задание_1\obj\Debug\netcoreapp3.1\Лаба_4_задание_1.dll
+C:\Users\GamerHead\source\repos\Лаба_4_задание_1\Лаба_4_задание_1\obj\Debug\netcoreapp3.1\Лаба_4_задание_1.pdb
+C:\Users\GamerHead\source\repos\Лаба_4_задание_1\Лаба_4_задание_1\obj\Debug\netcoreapp3.1\Лаба_4_задание_1.genruntimeconfig.cache
